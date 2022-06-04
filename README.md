@@ -1,0 +1,1 @@
+## Collection of C++ mini programms for beginners to inspire
